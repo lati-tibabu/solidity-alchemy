@@ -3,7 +3,7 @@
 ## Group Members
 
 - Abdi Desaleng (@AbdiDesalegn)/ OptimusPrime (id: Ugr/22598/13)
-- Bikiltu Dinku (@bikodg) (id: Ugr/22856/13)
+- Bikiltu Dinku (@bikodg) / (@bikdi) (id: Ugr/22856/13)
 - Damoze Tadele (@Damoze) (id: Ugr/22655/13)
 - Lati Tibabu (@lati-tibabu) (id: Ugr/22626/13)
 - Nigat Geletu (@Nigatt) (id: Ugr/22519/13)
